@@ -45,7 +45,7 @@ Clients wants to create a Casualties Dashboard for year 2021 and 2022 so that th
  # Report Snapshot 
 
  
-# Dashboard(![Casualties_Dashboard](https://github.com/DeepaliSingh08/Excel_Dashboard/assets/58591719/a4992442-aba0-4658-8e34-d7d97da77ff6))
+# Dashboard![Casualties_Dashboard](https://github.com/DeepaliSingh08/Excel_Dashboard/assets/58591719/a4992442-aba0-4658-8e34-d7d97da77ff6)
 
 
 # Insights
