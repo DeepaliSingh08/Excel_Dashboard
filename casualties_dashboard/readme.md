@@ -45,8 +45,7 @@ Clients wants to create a Casualties Dashboard for year 2021 and 2022 so that th
  # Report Snapshot 
 
  
-# Dashboard![Casualties_Dashboard](https://github.com/DeepaliSingh08/Excel_Dashboard/assets/58591719/a4992442-aba0-4658-8e34-d7d97da77ff6)
-
+# Dashboard![Casualties_Dashboard](https://github.com/DeepaliSingh08/Excel_Dashboard/assets/58591719/f452f68c-d8d2-44db-8d94-ea0eab44dfcd)
 
 # Insights
 
@@ -58,5 +57,4 @@ A single page report was created on Excel.
 - Accidents in Rural area is 34%.
 - Casualties due to dry road surface is maximum as compared to wet and snow surface.
 - The number of casualties in October and November is the highest in both 2021 and 2022.
-
 
